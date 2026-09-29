@@ -4,7 +4,7 @@
 
 ˚ ༘ ⋆｡˚ ᵛⁱʳᵃ ˚｡⋆ ༘ ˚
 
-<img src="assets/vira.png" width="100%" alt="vira">
+<img src="assets/vira-banner.png" width="100%" alt="vira">
 
 <br>
 
