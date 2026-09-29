@@ -4,6 +4,10 @@
 
 ˚ ༘ ⋆｡˚ ᵛⁱʳᵃ ˚｡⋆ ༘ ˚
 
+<img src="assets/vira.png" width="100%" alt="vira">
+
+<br>
+
 # vxvira ! 
 
 ☾ *they/them* ☽
